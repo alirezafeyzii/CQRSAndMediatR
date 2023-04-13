@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GeZrf8vYX16YsJkUMrG3dNzJUrAWlroq6pHY3p1qGt3snZ7oJbMcvO85TS9T8wjOVNFn+d6vgvnmrLywUehkHA==",
+  "dgSpecHash": "Bi8vCu/SX/0tGKsW+28L6fM5KvzayQ479VhLJi6oqySKCunIUx5b1JFniQzl6Uhs530RmJQTDHYYi85KxU/6Cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alirezafeyzi\\source\\repos\\SampleMediatR\\SampleMediatR\\SampleMediatR.csproj",
+  "projectFilePath": "C:\\Users\\alirezafeyzi\\source\\repos\\SampleMediatR\\CQRSAndMediatR\\SampleMediatR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alirezafeyzi\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\alirezafeyzi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

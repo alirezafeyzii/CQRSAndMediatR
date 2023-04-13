@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alirezafeyzi\\source\\repos\\SampleMediatR\\SampleMediatR\\SampleMediatR.csproj": {}
+    "C:\\Users\\alirezafeyzi\\source\\repos\\SampleMediatR\\CQRSAndMediatR\\SampleMediatR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alirezafeyzi\\source\\repos\\SampleMediatR\\SampleMediatR\\SampleMediatR.csproj": {
+    "C:\\Users\\alirezafeyzi\\source\\repos\\SampleMediatR\\CQRSAndMediatR\\SampleMediatR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alirezafeyzi\\source\\repos\\SampleMediatR\\SampleMediatR\\SampleMediatR.csproj",
+        "projectUniqueName": "C:\\Users\\alirezafeyzi\\source\\repos\\SampleMediatR\\CQRSAndMediatR\\SampleMediatR.csproj",
         "projectName": "SampleMediatR",
-        "projectPath": "C:\\Users\\alirezafeyzi\\source\\repos\\SampleMediatR\\SampleMediatR\\SampleMediatR.csproj",
+        "projectPath": "C:\\Users\\alirezafeyzi\\source\\repos\\SampleMediatR\\CQRSAndMediatR\\SampleMediatR.csproj",
         "packagesPath": "C:\\Users\\alirezafeyzi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alirezafeyzi\\source\\repos\\SampleMediatR\\SampleMediatR\\obj\\",
+        "outputPath": "C:\\Users\\alirezafeyzi\\source\\repos\\SampleMediatR\\CQRSAndMediatR\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alirezafeyzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
